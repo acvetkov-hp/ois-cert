@@ -11,7 +11,7 @@ Certificates are provided for both Test and Production environments.
 
 Use this certificate to connect to HP OIS test systems.
 
-- [Download Test Certificate](https://github.azc.ext.hp.com/OIS-205020/ois-cert/raw/main/b2bicert-itg.ordercapture.ext.hp.com.zip)
+- [Download Test Certificate](https://github.com/acvetkov-hp/ois-cert/raw/refs/heads/main/b2bicert-itg.ordercapture.ext.hp.com.zip)
 
 
 ---
